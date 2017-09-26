@@ -1,2 +1,3 @@
 # hello-world
-Getting started with GitHub
+
+Moved on to learn about branches and commits!
